@@ -1,12 +1,12 @@
 {
     "manifest_version": 2,
     "content_security_policy": "script-src 'self'; object-src 'self'",
-    "name": "Jenkins Notifier for Chrome™",
-        "version": "0.3.4",
-        "icons": {
-            "128": "images/icon.png",
-            "48": "images/icon.png",
-            "16": "images/icon.png"
+    "name": "Jenkins Notifier for Chrome™ 修改版",
+    "version": "0.3.4",
+    "icons": {
+        "128": "images/icon.png",
+        "48": "images/icon.png",
+        "16": "images/icon.png"
     },
     "web_accessible_resources": [
         "images/blue.png",
@@ -16,11 +16,11 @@
     ],
     "options_page": "options.html",
     "background": {
-        "page" : "background.html"
+        "page": "background.html"
     },
     "browser_action": {
         "default_icon": "images/icon.png",
-        "default_title": "Jenkins Notifier for Chrome™",
+        "default_title": "Jenkins Notifier for Chrome™ 修改版",
         "default_popup": "options.html"
     },
     "permissions": [

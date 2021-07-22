@@ -1,4 +1,4 @@
-Jenkins Notifier for Chrome(TM)
+Jenkins Notifier for Chrome(TM) 修改版
 ======================================
 A Google Chrome(TM) extension for [Jenkins](http://jenkins-ci.org/).
 
@@ -11,6 +11,7 @@ Authors
 ----------------
  * @mallowlabs
  * @mzp
+ * @AbelChan
 
 Requirement
 ----------------
@@ -29,7 +30,7 @@ Icons from original [Jenkins](http://jenkins-ci.org/).
 
 Forks
 ----------------
- * [Pronama-chan Jenkins Notifier for Chrome(TM)](https://github.com/jz5/pronama-chan-jenkins-notifier)
+ * [Jenkins Notifier for Chrome(TM)](https://github.com/mallowlabs/jenkins-notifier-for-chrome)
 
 License (without icons)
 ------------------------------
